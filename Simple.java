@@ -10,7 +10,8 @@ class Simple
 
 		Scanner sc1 = new Scanner(System.in);
 		Scanner sc2 = new Scanner(System.in);
-
+			
+		System.out.println("----- String Operations -----");
 		System.out.print("Enter the 1st String : ");
 		s1=sc1.nextLine();
 		System.out.print("Enter the 2nd String : ");
